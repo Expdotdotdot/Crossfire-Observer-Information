@@ -1,0 +1,2454 @@
+{
+  "version": "1.0.0",
+  "exportDate": "2026-11-15T05:52:09.968Z",
+  "players": [
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/calamity.png",
+      "pseudo": "calamity",
+      "steamID": "76561198882807602",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "BeaKie",
+      "steamID": "76561198055631941",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Signal.png",
+      "pseudo": "Signal",
+      "steamID": "76561198054121335",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "myline",
+      "steamID": "76561199188194908",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "s3rum",
+      "steamID": "76561198415592916",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "N2o",
+      "steamID": "76561198329316668",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "sava9e",
+      "steamID": "76561198140083682",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "ninja",
+      "steamID": "76561197968106893",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704638237"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Cooper.png",
+      "pseudo": "Cooper",
+      "steamID": "76561197967516987",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704481404"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/freakazoid.png",
+      "pseudo": "freakazoid",
+      "steamID": "76561197977148799",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704481404"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "jasonR",
+      "steamID": "76561197985134321",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704481404"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Pol0.png",
+      "pseudo": "Pol0",
+      "steamID": "76561198167738896",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704481404"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Trucklover86",
+      "steamID": "76561198119513781",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704481404"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "shiraz",
+      "steamID": "76561198166836115",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704459682"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Lukasz",
+      "steamID": "76561199203143516",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704459682"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "depend",
+      "steamID": "76561197963750592",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704459682"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "cloudy",
+      "steamID": "76561198256037299",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704459682"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Timbis12",
+      "steamID": "76561198083676964",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704459682"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Stx.png",
+      "pseudo": "Stx",
+      "steamID": "76561198079420802",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704593739"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Emy.png",
+      "pseudo": "Emy",
+      "steamID": "76561198231405440",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704593739"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/BiBiAhn.png",
+      "pseudo": "BiBiAhn",
+      "steamID": "76561198365018206",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704593739"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/vanessa.png",
+      "pseudo": "vanessa",
+      "steamID": "76561198366108712",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704593739"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Fawx.png",
+      "pseudo": "Fawx",
+      "steamID": "76561198001782167",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704593739"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/SolGoat.png",
+      "pseudo": "SolGoat",
+      "steamID": "76561198076324571",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704615339"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/AtomiK.png",
+      "pseudo": "AtomiK",
+      "steamID": "76561198048174130",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704615339"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "seziwana",
+      "steamID": "76561197968809739",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704615339"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Noxio",
+      "steamID": "76561198103923604",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704615339"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "ChwE",
+      "steamID": "76561198055416682",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704615339"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "aaronsfury",
+      "steamID": "76561198075997073",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704615339"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Walco.png",
+      "pseudo": "Walco",
+      "steamID": "76561198089905186",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704653869"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "C0C0",
+      "steamID": "76561198131414911",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704653869"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "BAGEL",
+      "steamID": "76561198315699479",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704653869"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/ayaneuu.png",
+      "pseudo": "ayaneuu",
+      "steamID": "76561198341370795",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704653869"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/kmrn.png",
+      "pseudo": "kmrn",
+      "steamID": "76561198260998400",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704653869"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Jeebs",
+      "steamID": "76561198288420173",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704653869"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "GRAG",
+      "steamID": "76561198149968937",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Oczarka",
+      "steamID": "76561198347516938",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Narwhal",
+      "steamID": "76561198152593526",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Shogun",
+      "steamID": "76561198200073915",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Roook",
+      "steamID": "76561199139628854",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Antwon",
+      "steamID": "76561198148573346",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "chipino",
+      "steamID": "76561198147476708",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704660774"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Jachro.png",
+      "pseudo": "Jachro",
+      "steamID": "76561198089558794",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704646111"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Tiski.png",
+      "pseudo": "Tiski",
+      "steamID": "76561198809602562",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704646111"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/xkold.png",
+      "pseudo": "xkold",
+      "steamID": "76561199073077120",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704646111"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Destro.png",
+      "pseudo": "Destro",
+      "steamID": "76561198294768618",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704646111"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/ryn.png",
+      "pseudo": "ryn",
+      "steamID": "76561198328604687",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704646111"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Rake",
+      "steamID": "76561198320662903",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704646111"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/freshie.png",
+      "pseudo": "freshie",
+      "steamID": "76561198336814871",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704668415"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Grizz.png",
+      "pseudo": "Grizz",
+      "steamID": "76561198210447689",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704668415"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/ogwizard.png",
+      "pseudo": "ogwizard",
+      "steamID": "76561198802655267",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704668415"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/nicx.png",
+      "pseudo": "nicx",
+      "steamID": "76561198410085211",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704668415"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "WUMBO",
+      "steamID": "76561198151317560",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704668415"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/ben1337.png",
+      "pseudo": "ben1337",
+      "steamID": "76561198091727390",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704668415"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "learsi",
+      "steamID": "76561198193827359",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "jason",
+      "steamID": "76561198375621909",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "corim",
+      "steamID": "76561198031855817",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/intra.png",
+      "pseudo": "intra",
+      "steamID": "76561198216516945",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Umar.png",
+      "pseudo": "Umar",
+      "steamID": "76561198306993981",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Juhst",
+      "steamID": "76561198316475526",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "ayy",
+      "steamID": "76561198208036101",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704700967"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/tatm.png",
+      "pseudo": "tatm",
+      "steamID": "76561198273434890",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704414983"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/corn.png",
+      "pseudo": "corn",
+      "steamID": "76561198087858058",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704414983"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/CrePoW.png",
+      "pseudo": "CrePoW",
+      "steamID": "76561198196974277",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704414983"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Pose1doNN.png",
+      "pseudo": "Pose1doNN",
+      "steamID": "76561198050437265",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704414983"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/CoolComs.png",
+      "pseudo": "CoolComs",
+      "steamID": "76561198336304485",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704414983"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Feral.png",
+      "pseudo": "Feral",
+      "steamID": "76561198054213712",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704414983"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Austin.png",
+      "pseudo": "Austin",
+      "steamID": "76561198352930772",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704684746"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/FRIZZY.png",
+      "pseudo": "FRIZZY",
+      "steamID": "76561197982819923",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704684746"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Treehen",
+      "steamID": "76561198035944786",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704684746"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Jonji.png",
+      "pseudo": "Jonji",
+      "steamID": "76561198074941114",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704684746"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/LittleBEER.png",
+      "pseudo": "LittleBEER",
+      "steamID": "76561197961136645",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704684746"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Maestr0",
+      "steamID": "76561197960781058",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704684746"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "KrakenS",
+      "steamID": "76561198089738210",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "mdn",
+      "steamID": "76561197990890891",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Ryno",
+      "steamID": "76561198118900074",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/P3nny.png",
+      "pseudo": "P3nny",
+      "steamID": "76561198072585465",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Panic.png",
+      "pseudo": "Panic",
+      "steamID": "76561198026803455",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "AJaxz",
+      "steamID": "76561198043332028",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "hades",
+      "steamID": "76561197961098516",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Nothe",
+      "steamID": "76561198219791087",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704518297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/mds.png",
+      "pseudo": "mds",
+      "steamID": "76561197963450946",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704560398"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/aelor.png",
+      "pseudo": "aelor",
+      "steamID": "76561198231092204",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704560398"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Valter0k.png",
+      "pseudo": "Valter0k",
+      "steamID": "76561198880100341",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704560398"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/H0NesT.png",
+      "pseudo": "H0NeST",
+      "steamID": "76561198404474914",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704560398"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Nico1ajus",
+      "steamID": "76561199218874679",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704560398"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "carbs",
+      "steamID": "76561198033024570",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704560398"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Sandman.png",
+      "pseudo": "Sandman",
+      "steamID": "76561198089723858",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704427297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/djay.png",
+      "pseudo": "djay",
+      "steamID": "76561197964201626",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704427297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Cryptic.png",
+      "pseudo": "Cryptic",
+      "steamID": "76561198029235071",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704427297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Bwills.png",
+      "pseudo": "Bwills",
+      "steamID": "76561198079574545",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704427297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/SLIGHT.png",
+      "pseudo": "SLIGHT",
+      "steamID": "76561198153580037",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704427297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/xaler.png",
+      "pseudo": "xaler",
+      "steamID": "76561198093067133",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704427297"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "sasha",
+      "steamID": "76561198140847869",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Zucar",
+      "steamID": "76561198119331267",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/grape.png",
+      "pseudo": "grape",
+      "steamID": "76561198090430405",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "fuzenko",
+      "steamID": "76561198929253202",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/z0mb1e.png",
+      "pseudo": "z0mb1e",
+      "steamID": "76561198122256521",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "spud",
+      "steamID": "76561198150242290",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "dvrk",
+      "steamID": "76561198358249075",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704532056"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/neight.png",
+      "pseudo": "neight",
+      "steamID": "76561198997404820",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Kermi.png",
+      "pseudo": "Kermi",
+      "steamID": "76561198212207660",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/bones.png",
+      "pseudo": "bones",
+      "steamID": "76561198083090482",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/cmrn.png",
+      "pseudo": "cmrn",
+      "steamID": "76561198082046495",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Maze.png",
+      "pseudo": "Maze",
+      "steamID": "76561198212412773",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "vin3",
+      "steamID": "76561197975639841",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "ditt",
+      "steamID": "76561197990570284",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Kurrent",
+      "steamID": "76561198851562129",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704622833"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "DYLAN",
+      "steamID": "76561198880348054",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704449259"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Sunk",
+      "steamID": "76561198174932007",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704449259"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Burglar",
+      "steamID": "76561198045725208",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704449259"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "bright",
+      "steamID": "76561198293220448",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704449259"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/brett.png",
+      "pseudo": "brett",
+      "steamID": "76561198140337447",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704449259"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/dopplahs.png",
+      "pseudo": "dopplahs",
+      "steamID": "76561198149019007",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/JSP.png",
+      "pseudo": "JSP",
+      "steamID": "76561198172880971",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/kenny.png",
+      "pseudo": "kenny",
+      "steamID": "76561197967510635",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "celery",
+      "steamID": "76561198285605662",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "TyRa",
+      "steamID": "76561198837643069",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Toasty.png",
+      "pseudo": "Toasty",
+      "steamID": "76561198122470381",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/OrangeZ.png",
+      "pseudo": "OrangeZ",
+      "steamID": "76561198214711400",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704629921"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "LUKE4k",
+      "steamID": "76561198870377543",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704397808"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/febreeze.png",
+      "pseudo": "febreeze",
+      "steamID": "76561198106046624",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704397808"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Johan.png",
+      "pseudo": "Johan",
+      "steamID": "76561198089765610",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704397808"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/killerPandas.png",
+      "pseudo": "killerPandas",
+      "steamID": "76561198245263718",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704397808"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/hibui.png",
+      "pseudo": "hibui",
+      "steamID": "76561198823974618",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704397808"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Fraq-KTR",
+      "steamID": "76561198345285843",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704397808"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/jared.png",
+      "pseudo": "jared",
+      "steamID": "76561198090734551",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704471169"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Crisp.png",
+      "pseudo": "Crisp",
+      "steamID": "76561198262416232",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704471169"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Drop.png",
+      "pseudo": "Drop",
+      "steamID": "76561198987550079",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704471169"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Wolffe.png",
+      "pseudo": "Wolffe",
+      "steamID": "76561198122668381",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704471169"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/stesso.png",
+      "pseudo": "stesso",
+      "steamID": "76561199018118161",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704471169"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/darkpsy.png",
+      "pseudo": "darkpsy",
+      "steamID": "76561197987019101",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704471169"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "ogura",
+      "steamID": "76561197997746076",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704709231"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "STIKER",
+      "steamID": "76561198109584862",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704709231"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/JTrops.png",
+      "pseudo": "JTrops",
+      "steamID": "76561198250018852",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704709231"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Go0dby3",
+      "steamID": "76561198096532399",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704709231"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "TitansO_O",
+      "steamID": "76561199579162107",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704709231"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/zBanss.png",
+      "pseudo": "zBanss",
+      "steamID": "76561198803881281",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704709231"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Bizarre666",
+      "steamID": "76561198258949935",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704542125"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Sanzh1k33",
+      "steamID": "76561199243647648",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704542125"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "k6rdon",
+      "steamID": "76561199071148832",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704542125"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "relan",
+      "steamID": "76561198795796854",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704542125"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "away",
+      "steamID": "76561199480370932",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704542125"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/WetWillie.png",
+      "pseudo": "WetWillie",
+      "steamID": "76561198188349082",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704692521"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/gloRinsz.png",
+      "pseudo": "gloRinsz",
+      "steamID": "76561197962113920",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704692521"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/roca.png",
+      "pseudo": "roca",
+      "steamID": "76561197966107627",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704692521"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "KmZ",
+      "steamID": "76561198213555703",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704692521"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Redman",
+      "steamID": "76561197990834568",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704692521"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "lazy",
+      "steamID": "76561199008914020",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Zoker.png",
+      "pseudo": "Zoker",
+      "steamID": "76561198988113622",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "sml",
+      "steamID": "76561198261911731",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "sh1tlord5",
+      "steamID": "76561198156880025",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "T0rby",
+      "steamID": "76561198854746787",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/SayYouWill.png",
+      "pseudo": "SayYouWill",
+      "steamID": "76561198446871035",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "kobz4tsu",
+      "steamID": "76561199008948463",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "raymer",
+      "steamID": "76561198049385803",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704551088"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/autimatic.png",
+      "pseudo": "autimatic",
+      "steamID": "76561198054870849",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Brehze.png",
+      "pseudo": "Brehze",
+      "steamID": "76561198054861139",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/FaNg.png",
+      "pseudo": "FaNg",
+      "steamID": "76561198272723319",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/CeRq.png",
+      "pseudo": "CeRq",
+      "steamID": "76561198156353883",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Stewie2K.png",
+      "pseudo": "Stewie2k",
+      "steamID": "76561197999004010",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/steel.png",
+      "pseudo": "steel",
+      "steamID": "76561197963077268",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Skadoodle.png",
+      "pseudo": "Skadoodle",
+      "steamID": "76561197981341453",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704605714"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Galaxy",
+      "steamID": "76561197987741263",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "cow",
+      "steamID": "76561198065040952",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "4sh0t",
+      "steamID": "76561198330841290",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "PinheadLarry",
+      "steamID": "76561198034119809",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Leodyn",
+      "steamID": "76561198142488606",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Galact",
+      "steamID": "76561198152004411",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "cjb",
+      "steamID": "76561198079428344",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704440599"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "SecretAgent",
+      "steamID": "76561197960269994",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704676345"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "kobruh",
+      "steamID": "76561197979927243",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704676345"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Marro.png",
+      "pseudo": "Marro",
+      "steamID": "76561198131895208",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704676345"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "b1",
+      "steamID": "76561198166020071",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704676345"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "amc",
+      "steamID": "76561198804371130",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704676345"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/valens.png",
+      "pseudo": "valens",
+      "steamID": "76561197965854472",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704676345"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Crunkee",
+      "steamID": "76561198104573235",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Sham",
+      "steamID": "76561198092338666",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/jr24racing.png",
+      "pseudo": "Jr24racing",
+      "steamID": "76561198063907749",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "evN",
+      "steamID": "76561198161563412",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "stobie",
+      "steamID": "76561198225658464",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Cyoon",
+      "steamID": "76561199082143846",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "SirClay",
+      "steamID": "76561197995186213",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704584912"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Enkae",
+      "steamID": "76561198334990632",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "coolgamer42",
+      "steamID": "76561198050961725",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/Fade.png",
+      "pseudo": "Fade",
+      "steamID": "76561198150650438",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "RMV1207",
+      "steamID": "76561198321477427",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Specter",
+      "steamID": "76561198196048570",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "BAx41",
+      "steamID": "76561198068177018",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Rawrr",
+      "steamID": "76561199847827870",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704570126"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "olkp666",
+      "steamID": "76561198424876362",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Vision",
+      "steamID": "76561198404531743",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "gojoo",
+      "steamID": "76561199670006295",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Taro",
+      "steamID": "76561198978616468",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "k0nGbu",
+      "steamID": "76561199028357081",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Yonys",
+      "steamID": "76561199156045746",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Mr_Manatee",
+      "steamID": "76561198202107793",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "GRiFFINTKZ",
+      "steamID": "76561198002485526",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704507489"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Electrician",
+      "steamID": "76561198191294105",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704494464"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "malfik",
+      "steamID": "76561199201859677",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704494464"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "TheJelly",
+      "steamID": "76561198144354151",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704494464"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "frog",
+      "steamID": "76561198878444327",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704494464"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "AEROj",
+      "steamID": "76561199033710731",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704494464"
+      ]
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Player-Pics/refs/heads/main/.placeholder%20photo%20M2.png",
+      "pseudo": "Element",
+      "steamID": "76561198011829248",
+      "isProPicture": true,
+      "webcam": "",
+      "country": "",
+      "teams": [
+        "1794704494464"
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "id": "1794704397808",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Wanted%20Goons.png",
+      "name": "Wanted Goons",
+      "active": false
+    },
+    {
+      "id": "1794704414983",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/DETONATE.png",
+      "name": "DETONATE",
+      "active": false
+    },
+    {
+      "id": "1794704427297",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/LAG.png",
+      "name": "LAG",
+      "active": false
+    },
+    {
+      "id": "1794704440599",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/NXG.png",
+      "name": "NXG",
+      "active": false
+    },
+    {
+      "id": "1794704449259",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Villainous.png",
+      "name": "Villainous",
+      "active": false
+    },
+    {
+      "id": "1794704459682",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Phantom%20Sense.png",
+      "name": "Phantom Sense",
+      "active": false
+    },
+    {
+      "id": "1794704471169",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Chicken%20Coop.png",
+      "name": "Chicken Coop",
+      "active": false
+    },
+    {
+      "id": "1794704481404",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Swole%20Patrol.png",
+      "name": "Swole Patrol",
+      "active": false
+    },
+    {
+      "id": "1794704494464",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Feistein.png",
+      "name": "Feistein",
+      "active": false
+    },
+    {
+      "id": "1794704507489",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/NZ%20Gaming.png",
+      "name": "NZ Gaming",
+      "active": false
+    },
+    {
+      "id": "1794704518297",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Addice.png",
+      "name": "Addice",
+      "active": false
+    },
+    {
+      "id": "1794704532056",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/regain.png",
+      "name": "regain",
+      "active": false
+    },
+    {
+      "id": "1794704542125",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Olympus.png",
+      "name": "Olympus",
+      "active": false
+    },
+    {
+      "id": "1794704551088",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Milk%20Esports.png",
+      "name": "Milk Esports",
+      "active": false
+    },
+    {
+      "id": "1794704560398",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Iowa%20Stormboar.png",
+      "name": "Iowa Stormboar",
+      "active": false
+    },
+    {
+      "id": "1794704570126",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Ninefly%20eSports.png",
+      "name": "Ninefly eSports",
+      "active": false
+    },
+    {
+      "id": "1794704584912",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Vlandian%20Knights.png",
+      "name": "Vlandian Knights",
+      "active": false
+    },
+    {
+      "id": "1794704593739",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/FlyQuest%20RED.png",
+      "name": "FlyQuest RED",
+      "active": false
+    },
+    {
+      "id": "1794704605714",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Without%20A%20Roof.png",
+      "name": "Without A Roof",
+      "active": false
+    },
+    {
+      "id": "1794704615339",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Axial.png",
+      "name": "Axial",
+      "active": false
+    },
+    {
+      "id": "1794704622833",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/NuTorious.png",
+      "name": "NuTorious",
+      "active": false
+    },
+    {
+      "id": "1794704629921",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Kodex%20Esports.png",
+      "name": "Kodex Esports",
+      "active": false
+    },
+    {
+      "id": "1794704638237",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/FarmVille.png",
+      "name": "FarmVille",
+      "active": false
+    },
+    {
+      "id": "1794704646111",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Celestial.png",
+      "name": "Celestial",
+      "active": false
+    },
+    {
+      "id": "1794704653869",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/EMPIRE.png",
+      "name": "EMPIRE",
+      "active": false
+    },
+    {
+      "id": "1794704660774",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Old%20Meta.png",
+      "name": "Old Meta",
+      "active": false
+    },
+    {
+      "id": "1794704668415",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Marsborne.png",
+      "name": "Marsborne",
+      "active": false
+    },
+    {
+      "id": "1794704676345",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Club%20333.png",
+      "name": "Club 333",
+      "active": false
+    },
+    {
+      "id": "1794704684746",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Elusive.png",
+      "name": "Elusive",
+      "active": false
+    },
+    {
+      "id": "1794704692521",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/North%20Forge.png",
+      "name": "North Forge",
+      "active": false
+    },
+    {
+      "id": "1794704700967",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Overtake.png",
+      "name": "Overtake",
+      "active": false
+    },
+    {
+      "id": "1794704709231",
+      "logo": "https://raw.githubusercontent.com/Expdotdotdot/Crossfire-Season-7-Team-Logos/refs/heads/main/Endless%20Esports.png",
+      "name": "Endless Esports",
+      "active": false
+    }
+  ],
+  "customColors": [
+    {
+      "id": "mm606y2cuwjtz4pip0s",
+      "name": "CROSSFIRE",
+      "background": "#0d0d0d",
+      "backgroundCT": "#5a57ff",
+      "backgroundT": "#ff4242",
+      "borderRadius": "0px"
+    }
+  ]
+}
