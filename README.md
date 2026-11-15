@@ -32,7 +32,7 @@
 
 ***Scoreboard Avatar*** - On
 
-***Team logo fallback*** - On
+***Team logo fallback*** - Off
 
 # Colors
 
