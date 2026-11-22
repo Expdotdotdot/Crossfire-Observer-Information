@@ -1,1 +1,1 @@
-[MyHUD Configuration Settings](/MyHUD Config.md)
+[MyHUD Configuration Settings](docs/MyHUD Config.md)
